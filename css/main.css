@@ -35,6 +35,11 @@ h4 {
     color: #2d3c49;
 }
 
+hr {
+    height: 3px;
+    background-color: #7d97ad;
+}
+
 .header_logo {
     min-width: 100px;
 }
